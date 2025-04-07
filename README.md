@@ -34,9 +34,7 @@ Worked on concept design and prototyping services.
 
 ### 🏅 Certifications
 
--🧠 **AI-ML Virtual Internship**  
-From AICTE in collaboration with AWS
--🧠 **AWS Virtual Internship** 
+-🧠 **AWS Virtual Internship**  
 From AICTE in collaboration with AWS
 
 ---
