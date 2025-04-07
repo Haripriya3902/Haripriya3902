@@ -8,7 +8,7 @@
 
 ### 🛠️ Tech Stack
 - 💻 Languages: `Python`, `Java`, `C++`, `SQL`, `HTML`, `CSS`
-- ⚙️ Tools & Skills: `MS Office`,  `LTSpice`, `Arduino`
+- ⚙️ Tools & Skills: `MS Office`, `Data Analytics`, `LTSpice`, `Arduino`
 - 🌐 Frontend: `HTML`, `CSS`
 - 🧠 Currently exploring: `Deep Learning`, `Computer Vision`, `Frontend Frameworks`
 
@@ -45,8 +45,21 @@ From AICTE in collaboration with AWS
 ### 📫 Let's Connect!
 
 - 📍 Warangal, India  
+- 📱 9949304812  
 - 📧 [rasakatlaharipriya@gmail.com](mailto:rasakatlaharipriya@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/r-hari-priya-2b33b0235)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haripriya3902&show_icons=true&theme=radical" alt="Haripriya's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haripriya3902&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripriya3902&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -59,5 +72,4 @@ From AICTE in collaboration with AWS
 ---
 
 > _"Code with purpose. Build with passion."_ 💜
-
 
